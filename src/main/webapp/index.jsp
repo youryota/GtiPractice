@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <center>
-<title>Insert title here</title>
+<title>ログイン画面</title>
 </head>
 <body>
 	<%
